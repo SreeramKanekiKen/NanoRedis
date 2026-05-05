@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+out/
+bin/
+
+# Editor
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# OS specific
+.DS_Store
+Thumbs.db
